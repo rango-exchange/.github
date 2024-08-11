@@ -21,7 +21,7 @@ The leading universal cross-chain DEX and bridge [aggregator](https://docs.rango
 🚀 Integration for different frameworks [Widget Examples](https://github.com/rango-exchange/widget-examples)
 
 ## Cross Chain SDK
-📚 Integration documents [Basic SDK Quick Start Guide](https://docs.rango.exchange/integration-quick-start/overview)<br/>
-📖 API reference [SDK Reference Docs](https://docs.rango.exchange/api-integration/rango-api)<br/>
+📚 Integration documents [Basic SDK Quick Start Guide](https://docs.rango.exchange/api-integration/basic-api-single-step/tutorial)<br/>
+📖 API reference [SDK Reference Docs](https://docs.rango.exchange/api-integration/basic-api-single-step/api-reference)<br/>
 :octocat: Report bug or contribute [Contribute to SDK](https://github.com/rango-exchange/rango-sdk)
 
